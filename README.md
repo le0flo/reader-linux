@@ -1,3 +1,3 @@
-= Reader Linux
+# Reader Linux
 
 Lightweight, special purpose linux distro made for e-readers.
